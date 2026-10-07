@@ -1,0 +1,13 @@
+streamlit>=1.58,<2
+pydantic>=2.8,<3
+pydantic-settings>=2.4,<3
+requests>=2.32,<3
+PyMuPDF>=1.28,<2
+Pillow>=10.4,<12
+pytesseract>=0.3.13,<1
+langgraph>=1.2,<2
+scikit-learn>=1.5,<2
+pandas>=2.2,<3
+python-dotenv>=1.0,<2
+reportlab>=4.2,<5
+pytest>=8.3,<9

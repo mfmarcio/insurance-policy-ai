@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+*.pyo
+data/uploads/*
+!data/uploads/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Runtime data
+data/uploads/
+data/processed/
+data/vectorstore/
+
+# Temporary files
+tmp/
+temp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
